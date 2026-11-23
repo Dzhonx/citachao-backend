@@ -266,14 +266,3 @@ _Agregar capturas de GET, POST y DELETE._
 ```text
 https://github.com/Dzhonx/citachao-backend
 ```
-
----
-
-## 👨‍💻 Autor
-
-**Dzhonx**
-
-Proyecto desarrollado para el curso:
-
-**Soluciones Web y Aplicaciones Distribuidas**  
-**Universidad Privada del Norte - UPN**
